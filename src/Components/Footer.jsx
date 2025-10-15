@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
     return (
-        <footer className="bg-black text-gray-300 px-8 py-12 ">
+        <footer className="bg-black text-gray-300 px-8 py-12 mt-6">
         <div className="grid md:grid-cols-5 gap-8 w-11/12 mx-auto">
           <div className="flex justify-center gap-0.5">
             <img className="w-[30px] h-[30px]" src="/logo-hero-IO.png" alt="" />

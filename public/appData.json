@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://play-lh.googleusercontent.com/Dpo3IJnf9eknq_3d7N-hkPCd2pJBLkK7NfJ85v5xVv_8yZR_y1cJgP3jqP9kH_VtZQ=w480-h960",
+    "image": "https://i.ibb.co.com/RT0XPttL/Photo-Pro-Edit.jpg",
     "title": "PhotoPro Edit",
     "companyName": "Creative Labs Inc",
     "id": 1001,
@@ -8,7 +8,7 @@
     "size": 145.5,
     "reviews": 12500,
     "ratingAvg": 4.7,
-    "downloads": 5000000,
+    "downloads": "5M",
     "ratings": [
       { "name": "1 star", "count": 625 },
       { "name": "2 star", "count": 1250 },
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/fXSVmv4A0mNaT7p820qEiC0316I8WMCPdyR7wDp_3cZD9Ys9_0kPq7v8KjsrEkR0wN8=w480-h960",
+    "image": "https://i.ibb.co.com/WWNYf6pj/Fit-Tracker-Pro.jpg",
     "title": "FitTracker Pro",
     "companyName": "HealthTech Solutions",
     "id": 1002,
@@ -26,7 +26,7 @@
     "size": 89.2,
     "reviews": 8900,
     "ratingAvg": 4.5,
-    "downloads": 3200000,
+    "downloads": "3.2M",
     "ratings": [
       { "name": "1 star", "count": 445 },
       { "name": "2 star", "count": 890 },
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/6N1jx8qk2c8xG1IdrRiFJwY0Y0nJwx1X8FzrJ6pJqkL8cV7Q5Q5Q5Q5Q5Q5Q5Q5Q5Q=w480-h960",
+    "image": "https://i.ibb.co.com/HTY3rR6n/Budget-Wise.png",
     "title": "BudgetWise",
     "companyName": "Finance Masters LLC",
     "id": 1003,
@@ -44,7 +44,7 @@
     "size": 67.8,
     "reviews": 15600,
     "ratingAvg": 4.8,
-    "downloads": 2800000,
+    "downloads": "2.8M",
     "ratings": [
       { "name": "1 star", "count": 312 },
       { "name": "2 star", "count": 468 },
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/5S5x8B1Q6y6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q=w480-h960",
+    "image": "https://i.ibb.co.com/y95FkhB/Language-Master.png",
     "title": "Language Master",
     "companyName": "EduGlobal Inc",
     "id": 1004,
@@ -62,7 +62,7 @@
     "size": 234.1,
     "reviews": 45000,
     "ratingAvg": 4.6,
-    "downloads": 15000000,
+    "downloads": "1.5M",
     "ratings": [
       { "name": "1 star", "count": 2250 },
       { "name": "2 star", "count": 4500 },
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/P2VMEeP9h4JQ0Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q=w480-h960",
+    "image": "https://i.ibb.co.com/Hp9pb8Tz/Music-Flow.jpg",
     "title": "MusicFlow",
     "companyName": "SoundWave Technologies",
     "id": 1005,
@@ -80,7 +80,7 @@
     "size": 112.3,
     "reviews": 78000,
     "ratingAvg": 4.4,
-    "downloads": 25000000,
+    "downloads": "2.5M",
     "ratings": [
       { "name": "1 star", "count": 7800 },
       { "name": "2 star", "count": 11700 },
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/3M4M5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J=w480-h960",
+    "image": "https://i.ibb.co.com/vxR62N3q/Task-Manager-Pro.png",
     "title": "TaskManager Pro",
     "companyName": "Productivity Plus",
     "id": 1006,
@@ -98,7 +98,7 @@
     "size": 45.6,
     "reviews": 23000,
     "ratingAvg": 4.9,
-    "downloads": 1800000,
+    "downloads": "1.8M",
     "ratings": [
       { "name": "1 star", "count": 230 },
       { "name": "2 star", "count": 460 },
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/4N4O5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K=w480-h960",
+    "image": "https://i.ibb.co.com/DfBQ3yfH/Weather-Radar-Live.jpg",
     "title": "WeatherRadar Live",
     "companyName": "Climate Systems Inc",
     "id": 1007,
@@ -116,7 +116,7 @@
     "size": 78.9,
     "reviews": 34000,
     "ratingAvg": 4.3,
-    "downloads": 12000000,
+    "downloads": "1.2M",
     "ratings": [
       { "name": "1 star", "count": 3400 },
       { "name": "2 star", "count": 5100 },
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/7O8P9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q=w480-h960",
+    "image": "https://i.ibb.co.com/spxrwNJK/Recipe-Box-Chef.jpg",
     "title": "RecipeBox Chef",
     "companyName": "Culinary Arts Studio",
     "id": 1008,
@@ -134,7 +134,7 @@
     "size": 156.7,
     "reviews": 12800,
     "ratingAvg": 4.7,
-    "downloads": 3500000,
+    "downloads": "3.5M",
     "ratings": [
       { "name": "1 star", "count": 384 },
       { "name": "2 star", "count": 640 },
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/8Q9R0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S=w480-h960",
+    "image": "https://i.ibb.co.com/jv69pWvs/Sleep-Cycle-Analyzer.png",
     "title": "SleepCycle Analyzer",
     "companyName": "Wellness Tech Group",
     "id": 1009,
@@ -152,7 +152,7 @@
     "size": 92.4,
     "reviews": 19500,
     "ratingAvg": 4.2,
-    "downloads": 4200000,
+    "downloads": "4.2M",
     "ratings": [
       { "name": "1 star", "count": 2925 },
       { "name": "2 star", "count": 3900 },
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/1U2V3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W=w480-h960",
+    "image": "https://i.ibb.co.com/7xtT7BZf/Note-Sync-Plus.jpg",
     "title": "NoteSync Plus",
     "companyName": "Digital Workspace Co",
     "id": 1010,
@@ -170,7 +170,7 @@
     "size": 58.3,
     "reviews": 26700,
     "ratingAvg": 4.6,
-    "downloads": 8900000,
+    "downloads": "8.9M",
     "ratings": [
       { "name": "1 star", "count": 1335 },
       { "name": "2 star", "count": 1602 },
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/2X3Y4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z=w480-h960",
+    "image": "https://i.ibb.co.com/zhnMmxz2/Mindful-Living-Inc.png",
     "title": "Meditation Guide",
     "companyName": "Mindful Living Inc",
     "id": 1011,
@@ -188,7 +188,7 @@
     "size": 123.8,
     "reviews": 18200,
     "ratingAvg": 4.8,
-    "downloads": 5600000,
+    "downloads": "5.6M",
     "ratings": [
       { "name": "1 star", "count": 364 },
       { "name": "2 star", "count": 546 },
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/3Y4Z5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A=w480-h960",
+    "image": "https://i.ibb.co.com/8425bMDq/Network-Platforms-Ltd.jpg",
     "title": "SocialConnect",
     "companyName": "Network Platforms Ltd",
     "id": 1012,
@@ -206,7 +206,7 @@
     "size": 287.5,
     "reviews": 125000,
     "ratingAvg": 4.1,
-    "downloads": 45000000,
+    "downloads": "4.5M",
     "ratings": [
       { "name": "1 star", "count": 18750 },
       { "name": "2 star", "count": 25000 },
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/4Z5A6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B=w480-h960",
+    "image": "https://i.ibb.co.com/msFmNK9/Dev-Tools-Corporation-1.jpg",
     "title": "CodeEditor Mobile",
     "companyName": "DevTools Corporation",
     "id": 1013,
@@ -224,7 +224,7 @@
     "size": 89.6,
     "reviews": 8400,
     "ratingAvg": 4.4,
-    "downloads": 1200000,
+    "downloads": "1.2M",
     "ratings": [
       { "name": "1 star", "count": 840 },
       { "name": "2 star", "count": 1260 },
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/5A6B7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C=w480-h960",
+    "image": "https://i.ibb.co.com/PGCRknsy/Adventure-Guides-LLC.png",
     "title": "TravelPlanner Pro",
     "companyName": "Adventure Guides LLC",
     "id": 1014,
@@ -242,7 +242,7 @@
     "size": 134.2,
     "reviews": 29300,
     "ratingAvg": 4.5,
-    "downloads": 6800000,
+    "downloads": "6.8M",
     "ratings": [
       { "name": "1 star", "count": 1465 },
       { "name": "2 star", "count": 2198 },
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "image": "https://play-lh.googleusercontent.com/6B7C8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D=w480-h960",
+    "image": "https://i.ibb.co.com/9kN2sn2r/Financial-Insights-Inc.jpg",
     "title": "StockTracker Live",
     "companyName": "Financial Insights Inc",
     "id": 1015,
@@ -260,13 +260,103 @@
     "size": 76.8,
     "reviews": 15600,
     "ratingAvg": 4.7,
-    "downloads": 2300000,
+    "downloads": "2.3M",
     "ratings": [
       { "name": "1 star", "count": 468 },
       { "name": "2 star", "count": 780 },
       { "name": "3 star", "count": 1560 },
       { "name": "4 star", "count": 4680 },
       { "name": "5 star", "count": 8112 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/M5NBHzWF/Video-Editor-Pro.jpg",
+    "title": "VideoEditor Pro",
+    "companyName": "Creative Studios Ltd",
+    "id": 1016,
+    "description": "Professional video editing with 4K support and cinematic effects",
+    "size": 325.7,
+    "reviews": 21800,
+    "ratingAvg": 4.6,
+    "downloads": "3.7M",
+    "ratings": [
+      { "name": "1 star", "count": 872 },
+      { "name": "2 star", "count": 1308 },
+      { "name": "3 star", "count": 3270 },
+      { "name": "4 star", "count": 7630 },
+      { "name": "5 star", "count": 8720 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Y747y4dR/Plant-Care-Guide.jpg",
+    "title": "PlantCare Guide",
+    "companyName": "Green Thumb Technologies",
+    "id": 1017,
+    "description": "Plant identification and care reminders with expert gardening tips",
+    "size": 67.3,
+    "reviews": 14200,
+    "ratingAvg": 4.8,
+    "downloads": "2.1M",
+    "ratings": [
+      { "name": "1 star", "count": 284 },
+      { "name": "2 star", "count": 426 },
+      { "name": "3 star", "count": 1136 },
+      { "name": "4 star", "count": 4260 },
+      { "name": "5 star", "count": 8094 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/r27QJdrC/Pet-Care-Companion.png",
+    "title": "PetCare Companion",
+    "companyName": "Animal Wellness Co",
+    "id": 1018,
+    "description": "Track pet health, vaccinations, and get veterinary advice",
+    "size": 88.9,
+    "reviews": 19300,
+    "ratingAvg": 4.5,
+    "downloads": "4.3M",
+    "ratings": [
+      { "name": "1 star", "count": 965 },
+      { "name": "2 star", "count": 1544 },
+      { "name": "3 star", "count": 3474 },
+      { "name": "4 star", "count": 6751 },
+      { "name": "5 star", "count": 6566 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/MkfHy6xR/Fit-Life-Studios.png",
+    "title": "HomeWorkout Trainer",
+    "companyName": "FitLife Studios",
+    "id": 1019,
+    "description": "Personalized home workout routines with video demonstrations",
+    "size": 156.2,
+    "reviews": 37800,
+    "ratingAvg": 4.7,
+    "downloads": "7.2M",
+    "ratings": [
+      { "name": "1 star", "count": 1134 },
+      { "name": "2 star", "count": 1890 },
+      { "name": "3 star", "count": 5292 },
+      { "name": "4 star", "count": 11340 },
+      { "name": "5 star", "count": 18144 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5xgPyp4K/Password-Manager-Secure.png",
+    "title": "PasswordManager Secure",
+    "companyName": "CyberSecurity Pro",
+    "id": 1020,
+    "description": "Secure password storage with biometric authentication and auto-fill",
+    "size": 42.5,
+    "reviews": 25600,
+    "ratingAvg": 4.9,
+    "downloads": "5.4M",
+    "ratings": [
+      { "name": "1 star", "count": 256 },
+      { "name": "2 star", "count": 512 },
+      { "name": "3 star", "count": 1280 },
+      { "name": "4 star", "count": 5632 },
+      { "name": "5 star", "count": 17920 }
     ]
   }
 ]

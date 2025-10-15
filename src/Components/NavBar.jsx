@@ -38,7 +38,7 @@ const NavBar = () => {
               </li>
             </ul>
           </div>
-          <Link to="/" className="btn btn-ghost text-xl">
+          <Link to="/" className="text-xl flex items-center">
             <img src="/logo-hero-IO.png" alt="" /> HERO.IO
           </Link>
         </div>
@@ -56,7 +56,7 @@ const NavBar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <Link to='https://github.com/Abidafi'>
+          <Link to='https://github.com/Abidafi' target="_blank" rel="noopener noreferrer">
             <button className="bg-gradient-to-r from-blue-600 to-purple-600 text-white px-4 py-2 rounded-lg flex gap-2 hover:cursor-pointer">
             <img className="w-[20px] h-[20px]" src="/Github.png" alt="" /> Contribute
            </button>
