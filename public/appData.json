@@ -1,0 +1,272 @@
+[
+  {
+    "image": "https://play-lh.googleusercontent.com/Dpo3IJnf9eknq_3d7N-hkPCd2pJBLkK7NfJ85v5xVv_8yZR_y1cJgP3jqP9kH_VtZQ=w480-h960",
+    "title": "PhotoPro Edit",
+    "companyName": "Creative Labs Inc",
+    "id": 1001,
+    "description": "Professional photo editing app with advanced filters and AI-powered tools",
+    "size": 145.5,
+    "reviews": 12500,
+    "ratingAvg": 4.7,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 625 },
+      { "name": "2 star", "count": 1250 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 3750 },
+      { "name": "5 star", "count": 4375 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/fXSVmv4A0mNaT7p820qEiC0316I8WMCPdyR7wDp_3cZD9Ys9_0kPq7v8KjsrEkR0wN8=w480-h960",
+    "title": "FitTracker Pro",
+    "companyName": "HealthTech Solutions",
+    "id": 1002,
+    "description": "Comprehensive fitness tracking with workout plans and nutrition guidance",
+    "size": 89.2,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 445 },
+      { "name": "2 star", "count": 890 },
+      { "name": "3 star", "count": 1780 },
+      { "name": "4 star", "count": 2670 },
+      { "name": "5 star", "count": 3115 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/6N1jx8qk2c8xG1IdrRiFJwY0Y0nJwx1X8FzrJ6pJqkL8cV7Q5Q5Q5Q5Q5Q5Q5Q5Q5Q=w480-h960",
+    "title": "BudgetWise",
+    "companyName": "Finance Masters LLC",
+    "id": 1003,
+    "description": "Smart budgeting and expense tracking with financial insights",
+    "size": 67.8,
+    "reviews": 15600,
+    "ratingAvg": 4.8,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 312 },
+      { "name": "2 star", "count": 468 },
+      { "name": "3 star", "count": 1248 },
+      { "name": "4 star", "count": 3744 },
+      { "name": "5 star", "count": 9828 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/5S5x8B1Q6y6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q6Q=w480-h960",
+    "title": "Language Master",
+    "companyName": "EduGlobal Inc",
+    "id": 1004,
+    "description": "Learn new languages with interactive lessons and speech recognition",
+    "size": 234.1,
+    "reviews": 45000,
+    "ratingAvg": 4.6,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 2250 },
+      { "name": "2 star", "count": 4500 },
+      { "name": "3 star", "count": 9000 },
+      { "name": "4 star", "count": 13500 },
+      { "name": "5 star", "count": 15750 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/P2VMEeP9h4JQ0Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q5Q=w480-h960",
+    "title": "MusicFlow",
+    "companyName": "SoundWave Technologies",
+    "id": 1005,
+    "description": "Stream millions of songs with personalized recommendations",
+    "size": 112.3,
+    "reviews": 78000,
+    "ratingAvg": 4.4,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 7800 },
+      { "name": "2 star", "count": 11700 },
+      { "name": "3 star", "count": 15600 },
+      { "name": "4 star", "count": 19500 },
+      { "name": "5 star", "count": 23400 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/3M4M5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J5J=w480-h960",
+    "title": "TaskManager Pro",
+    "companyName": "Productivity Plus",
+    "id": 1006,
+    "description": "Advanced task management with team collaboration features",
+    "size": 45.6,
+    "reviews": 23000,
+    "ratingAvg": 4.9,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 230 },
+      { "name": "2 star", "count": 460 },
+      { "name": "3 star", "count": 1150 },
+      { "name": "4 star", "count": 4600 },
+      { "name": "5 star", "count": 16560 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/4N4O5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K5K=w480-h960",
+    "title": "WeatherRadar Live",
+    "companyName": "Climate Systems Inc",
+    "id": 1007,
+    "description": "Real-time weather forecasts with severe weather alerts",
+    "size": 78.9,
+    "reviews": 34000,
+    "ratingAvg": 4.3,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 3400 },
+      { "name": "2 star", "count": 5100 },
+      { "name": "3 star", "count": 6800 },
+      { "name": "4 star", "count": 10200 },
+      { "name": "5 star", "count": 8500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/7O8P9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q9Q=w480-h960",
+    "title": "RecipeBox Chef",
+    "companyName": "Culinary Arts Studio",
+    "id": 1008,
+    "description": "Discover and organize recipes with step-by-step cooking guidance",
+    "size": 156.7,
+    "reviews": 12800,
+    "ratingAvg": 4.7,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 384 },
+      { "name": "2 star", "count": 640 },
+      { "name": "3 star", "count": 1280 },
+      { "name": "4 star", "count": 3840 },
+      { "name": "5 star", "count": 6656 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/8Q9R0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S0S=w480-h960",
+    "title": "SleepCycle Analyzer",
+    "companyName": "Wellness Tech Group",
+    "id": 1009,
+    "description": "Track sleep patterns and improve sleep quality with smart alarms",
+    "size": 92.4,
+    "reviews": 19500,
+    "ratingAvg": 4.2,
+    "downloads": 4200000,
+    "ratings": [
+      { "name": "1 star", "count": 2925 },
+      { "name": "2 star", "count": 3900 },
+      { "name": "3 star", "count": 4875 },
+      { "name": "4 star", "count": 5850 },
+      { "name": "5 star", "count": 1950 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/1U2V3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W3W=w480-h960",
+    "title": "NoteSync Plus",
+    "companyName": "Digital Workspace Co",
+    "id": 1010,
+    "description": "Cross-platform note taking with cloud synchronization",
+    "size": 58.3,
+    "reviews": 26700,
+    "ratingAvg": 4.6,
+    "downloads": 8900000,
+    "ratings": [
+      { "name": "1 star", "count": 1335 },
+      { "name": "2 star", "count": 1602 },
+      { "name": "3 star", "count": 2670 },
+      { "name": "4 star", "count": 8010 },
+      { "name": "5 star", "count": 13083 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/2X3Y4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z4Z=w480-h960",
+    "title": "Meditation Guide",
+    "companyName": "Mindful Living Inc",
+    "id": 1011,
+    "description": "Guided meditation sessions for stress relief and mindfulness",
+    "size": 123.8,
+    "reviews": 18200,
+    "ratingAvg": 4.8,
+    "downloads": 5600000,
+    "ratings": [
+      { "name": "1 star", "count": 364 },
+      { "name": "2 star", "count": 546 },
+      { "name": "3 star", "count": 1456 },
+      { "name": "4 star", "count": 4368 },
+      { "name": "5 star", "count": 11466 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/3Y4Z5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A5A=w480-h960",
+    "title": "SocialConnect",
+    "companyName": "Network Platforms Ltd",
+    "id": 1012,
+    "description": "Connect with friends and share moments with enhanced privacy controls",
+    "size": 287.5,
+    "reviews": 125000,
+    "ratingAvg": 4.1,
+    "downloads": 45000000,
+    "ratings": [
+      { "name": "1 star", "count": 18750 },
+      { "name": "2 star", "count": 25000 },
+      { "name": "3 star", "count": 31250 },
+      { "name": "4 star", "count": 37500 },
+      { "name": "5 star", "count": 12500 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/4Z5A6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B6B=w480-h960",
+    "title": "CodeEditor Mobile",
+    "companyName": "DevTools Corporation",
+    "id": 1013,
+    "description": "Powerful code editor for mobile with syntax highlighting and Git integration",
+    "size": 89.6,
+    "reviews": 8400,
+    "ratingAvg": 4.4,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 840 },
+      { "name": "2 star", "count": 1260 },
+      { "name": "3 star", "count": 1680 },
+      { "name": "4 star", "count": 2520 },
+      { "name": "5 star", "count": 2100 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/5A6B7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C7C=w480-h960",
+    "title": "TravelPlanner Pro",
+    "companyName": "Adventure Guides LLC",
+    "id": 1014,
+    "description": "Plan your trips with itinerary management and local recommendations",
+    "size": 134.2,
+    "reviews": 29300,
+    "ratingAvg": 4.5,
+    "downloads": 6800000,
+    "ratings": [
+      { "name": "1 star", "count": 1465 },
+      { "name": "2 star", "count": 2198 },
+      { "name": "3 star", "count": 4396 },
+      { "name": "4 star", "count": 8792 },
+      { "name": "5 star", "count": 12449 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/6B7C8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D=w480-h960",
+    "title": "StockTracker Live",
+    "companyName": "Financial Insights Inc",
+    "id": 1015,
+    "description": "Real-time stock market tracking with portfolio management",
+    "size": 76.8,
+    "reviews": 15600,
+    "ratingAvg": 4.7,
+    "downloads": 2300000,
+    "ratings": [
+      { "name": "1 star", "count": 468 },
+      { "name": "2 star", "count": 780 },
+      { "name": "3 star", "count": 1560 },
+      { "name": "4 star", "count": 4680 },
+      { "name": "5 star", "count": 8112 }
+    ]
+  }
+]
