@@ -2,7 +2,7 @@ import { Download } from "lucide-react";
 import React from "react";
 
 const AppCard = ({ app }) => {
-    const { image, title, downloads, ratingAvg } = app
+    const { image, title, downloads, ratingAvg  } = app
   return (
     <div className="card w-[320px] h-[400px] bg-base-100 shadow-sm overflow-hidden hover:scale-105 transition ease-in-out">
       <figure>
