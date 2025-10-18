@@ -5,6 +5,7 @@ import MainLayout from "../Layouts/MainLayout";
 import ErrorPage from "../Pages/ErrorPage";
 import Installation from "../Pages/Installation";
 import AppDetails from "../Pages/AppDetails";
+import NotFoundPage from "../Pages/NotFoundPage";
 
 const router = createBrowserRouter([
   {
@@ -33,7 +34,7 @@ const router = createBrowserRouter([
   },
   {
     path:'*',
-    element: <ErrorPage />,
+    element: <NotFoundPage />,
   }
 ]);
 
