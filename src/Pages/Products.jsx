@@ -3,6 +3,7 @@ import useApps from "../hooks/useApps";
 import AppCard from "../Components/AppCard";
 import { Link } from "react-router";
 import LoadingAnimation from "../Components/LoadingAnimation";
+import NoAppsFound from "../Components/NoAppsFound";
 
 const Products = () => {
   const { app, loading } = useApps();
@@ -51,6 +52,8 @@ const Products = () => {
 
       {loading || searchLoading ? (
         <LoadingAnimation count={20} />
+      ) : searchedApps.length === 0 ? (
+        <NoAppsFound searchTerm={search} />
       ) : (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 w-11/12 mx-auto mt-5">
           {searchedApps.map((app) => (
