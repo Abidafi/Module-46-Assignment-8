@@ -41,6 +41,22 @@ const AppDetails = () => {
         return "#ef4444";
   };
 
+  const handleInstallation = () =>{
+        const existingList = JSON.parse(localStorage.getItem('install')) 
+        let updatedList = []
+        if(existingList){
+            const isDuplicate = existingList.some(a=> a.id === desiredApp.id)
+            if(isDuplicate) {
+            toast.warning ('App is Already Installed'); 
+            return;
+            }            
+        updatedList = [...existingList, desiredApp]
+        }else{
+            updatedList.push(desiredApp)
+        }
+        localStorage.setItem('install', JSON.stringify(updatedList))
+  }
+
   return (
     <div className="w-11/12 mx-auto">
       {/* Apps Primary Information with Download Button */}
@@ -77,7 +93,10 @@ const AppDetails = () => {
                 ? "btn-disabled bg-green-600 text-white" 
                 : "bg-navy-blue text-white hover:bg-blue-800"
               }`}
-              onClick={handleInstall}
+              onClick={ () => {
+                 handleInstall();
+                 handleInstallation();
+              }}
               disabled={isInstalled}
             >
               {isInstalled ? (
